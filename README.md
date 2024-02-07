@@ -10,4 +10,5 @@
 
 ​
 
-    Open Source Project having the Sysml Architect module & Java Designer: ​   Myrthus template project:  https://github.com/Modelio-R-D/MYRTUS
+    Open Source Project having the Sysml Architect module & Java Designer: ​   
+    Myrthus template project:  https://github.com/Modelio-R-D/MYRTUS
