@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="TreeReferenceAttribute" version="4">
+  <OBJECT>
+    <ID name="TreeReferenceAttribute" mc="Infrastructure.Stereotype" uid="4f155d1d-2a98-43b0-be60-57d26b75b56f"/>
+    <PID name="attacktree" mc="Infrastructure.Profile" uid="e37a5820-06b4-4268-a1de-46eb78224dce"/>
+    <ATTRIBUTES>
+      <ATT name="Image"></ATT>
+      <ATT name="Icon"></ATT>
+      <ATT name="IsHidden">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="LabelKey"><![CDATA[%stereotype.TreeReferenceAttribute.label]]></ATT>
+      <ATT name="BaseClassName"><![CDATA[Standard.Attribute]]></ATT>
+      <ATT name="Name"><![CDATA[TreeReferenceAttribute]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES></DEPENDENCIES>
+  </OBJECT>
+</EXT>

@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Model Usecase diagram" version="4">
+  <OBJECT>
+    <ID name="Model Usecase diagram" mc="Standard.UseCaseDiagram" uid="8c14660e-1a5d-46db-8fc2-e8a9ca8b6692"/>
+    <PID name="Model" mc="Standard.Package" uid="a290f63e-4631-4fec-886b-87396caca9d0"/>
+    <ATTRIBUTES>
+      <ATT name="UiDataVersion">2</ATT>
+      <ATT name="UiData"><![CDATA[eJztV21v2jAQ/itRtK8E6CiDiVJBktGoKakS2qn7gkxy0LSOXdlOIf9+DgFUUqAZY7Sa+gnr7Hvu7bk70jqfRVh5BsZDSs7UqlZRlfN2yxk9gC+UMJAiVRHJE5yplE20iAaAQ6rFEdZiDj7iEIRowlCkyYOgTAMMERDB89e96IaDLgVGJlCVCD1QNlyZrqjt1jWjT8BEohAUSYsYJTQWBhJI3t0iHMPCFRJjrJbbrfJS4ZWqJxIM6logJ5sCWbrH0/dc8ykDLdMt4J8Mx0cBBEtj5ky4MC5opS8hFpoKzIQxsqSP82N60OkIYbE7xo7nOfrQu3B+6h3XyKWoSykGRFTlORWeqWOEORTFcx3b9A4J2O/cWr1O17Ktwd2hcHWn3zf1geX0XedmYLo5XJPE0fdCpb6E5ItOCZFEkZV2JeWAWcHKIcNypZmikdqdrmnvEWI5Y+ouIwwwEhBIiuXwr1LREtwTiASIBdp6vykNv1qr1ytQqqLToFSrB6NSY+yflKCBmj5qjOr15snuIDHi4pLQKbHRCHDOB0+wkEzU9lWabeUma35lkfNWef50Z3AyRRbRafREeZjWYQt+ASj9PsQBgxTBDrlYGwJf95xmPOEC0inmzQ/Hn161fz690tGVzcn/mJkfh4mnuwq64p1Po4gS7R5kpZiknwFjFGMxj8XMHl3M747PyHpRRkqoWfLXtKx90rIQLTOqFADk93Q6DP1XQHss5DnUIyRTyoIDoAnkPw7lmGVA30ATLC7iGt6Q/wJQK4q9YP23wyyQHwzgFyWFOuKwbdv4bNuP2LYjGiT7bJTy4mdThl9d5cCWZNQWhc25ZhEBk3SzLDJe3VrKtwzZIXnkO1zOPe9ODIamMi02SqT9Nfo2C63NINPnGk4R0r35EvA4PfdnWu9N+jA/uJfENHqa3bkz3WG3o1/25KdW3zg0T7eivKwa3/Qnqlr5pMM70WHgXB9/Xq3HWXBubfug+Q2LsaJD]]></ATT>
+      <ATT name="PreviewData"><![CDATA[data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVCAIAAAAmdTLBAAAAGElEQVR4nGP4TxlgGNU/qn9U/6j+EaofAB8cJiE1IQRUAAAAAElFTkSuQmCC]]></ATT>
+      <ATT name="JsStructure"></ATT>
+      <ATT name="Name"><![CDATA[Model Usecase diagram]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <LINK relation="Represented">
+        <ID name="Model" mc="Standard.Package" uid="a290f63e-4631-4fec-886b-87396caca9d0"/>
+      </LINK>
+      <LINK relation="Extension">
+        <FOREIGNID name="SysMLUseCaseDiagram" mc="Infrastructure.Stereotype" uid="1a667602-d7d7-11e0-9a40-0027103f347c"/>
+      </LINK>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

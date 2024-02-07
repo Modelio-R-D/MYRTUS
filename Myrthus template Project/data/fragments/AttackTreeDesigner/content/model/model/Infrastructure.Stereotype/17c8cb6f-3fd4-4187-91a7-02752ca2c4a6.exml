@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="AttackTreeDiagram" version="4">
+  <OBJECT>
+    <ID name="AttackTreeDiagram" mc="Infrastructure.Stereotype" uid="17c8cb6f-3fd4-4187-91a7-02752ca2c4a6"/>
+    <PID name="attacktree.diagrams" mc="Infrastructure.Profile" uid="6f44d2e9-1fa5-46cd-9763-62c01694f4e1"/>
+    <ATTRIBUTES>
+      <ATT name="Image"><![CDATA[res/icon/gui/diag_bis_48.png]]></ATT>
+      <ATT name="Icon"><![CDATA[res/icon/gui/diag_bis_24.png]]></ATT>
+      <ATT name="IsHidden">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="LabelKey"><![CDATA[%stereotype.AttackTreeDiagram.label]]></ATT>
+      <ATT name="BaseClassName"><![CDATA[Standard.ClassDiagram]]></ATT>
+      <ATT name="Name"><![CDATA[AttackTreeDiagram]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES></DEPENDENCIES>
+  </OBJECT>
+</EXT>

@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="AttackTreeDesigner" version="4">
+  <OBJECT>
+    <ID name="AttackTreeDesigner" mc="Infrastructure.ModuleComponent" uid="e9061c29-1a92-4608-891f-1e3d3b2f2bd6"/>
+    <ATTRIBUTES>
+      <ATT name="LicenseKey">0</ATT>
+      <ATT name="MajVersion">2</ATT>
+      <ATT name="MinVersion">0</ATT>
+      <ATT name="MinMinVersion"><![CDATA[1]]></ATT>
+      <ATT name="MinBinVersionCompatibility"></ATT>
+      <ATT name="JavaClassName"><![CDATA[org.modelio.module.attacktreedesigner.impl.AttackTreeDesignerModule]]></ATT>
+      <ATT name="Name"><![CDATA[AttackTreeDesigner]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedProfile">
+        <COMPID name="attacktree" mc="Infrastructure.Profile" uid="e37a5820-06b4-4268-a1de-46eb78224dce"/>
+        <COMPID name="attacktree.diagrams" mc="Infrastructure.Profile" uid="6f44d2e9-1fa5-46cd-9763-62c01694f4e1"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

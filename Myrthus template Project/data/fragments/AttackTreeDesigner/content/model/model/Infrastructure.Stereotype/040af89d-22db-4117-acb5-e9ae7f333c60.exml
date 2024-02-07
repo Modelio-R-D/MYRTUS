@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Connection" version="4">
+  <OBJECT>
+    <ID name="Connection" mc="Infrastructure.Stereotype" uid="040af89d-22db-4117-acb5-e9ae7f333c60"/>
+    <PID name="attacktree" mc="Infrastructure.Profile" uid="e37a5820-06b4-4268-a1de-46eb78224dce"/>
+    <ATTRIBUTES>
+      <ATT name="Image"><![CDATA[res/icon/gui/Connection (1).png]]></ATT>
+      <ATT name="Icon"><![CDATA[res/icon/gui/Connection.png]]></ATT>
+      <ATT name="IsHidden">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="LabelKey"><![CDATA[%stereotype.Connection.label]]></ATT>
+      <ATT name="BaseClassName"><![CDATA[Infrastructure.Dependency]]></ATT>
+      <ATT name="Name"><![CDATA[Connection]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES></DEPENDENCIES>
+  </OBJECT>
+</EXT>

@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="OR" version="4">
+  <OBJECT>
+    <ID name="OR" mc="Infrastructure.Stereotype" uid="3664495d-49db-45c1-a18b-4e4e7cb08345"/>
+    <PID name="attacktree" mc="Infrastructure.Profile" uid="e37a5820-06b4-4268-a1de-46eb78224dce"/>
+    <ATTRIBUTES>
+      <ATT name="Image"><![CDATA[res/icon/gui/OrGate_48.png]]></ATT>
+      <ATT name="Icon"><![CDATA[res/icon/gui/OrGate_24.png]]></ATT>
+      <ATT name="IsHidden">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="LabelKey"><![CDATA[%stereotype.OR.label]]></ATT>
+      <ATT name="BaseClassName"><![CDATA[Standard.Class]]></ATT>
+      <ATT name="Name"><![CDATA[OR]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <LINK relation="Parent">
+        <ID name="Operator" mc="Infrastructure.Stereotype" uid="661729c8-31ab-40bb-a3fc-7a065dbae0c2"/>
+      </LINK>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

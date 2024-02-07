@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="ThreatAnalysis" version="4">
+  <OBJECT>
+    <ID name="ThreatAnalysis" mc="Infrastructure.Stereotype" uid="53408021-45e2-4fc6-84c4-8f567a6b7a99"/>
+    <PID name="attacktree" mc="Infrastructure.Profile" uid="e37a5820-06b4-4268-a1de-46eb78224dce"/>
+    <ATTRIBUTES>
+      <ATT name="Image"><![CDATA[res/icon/gui/ThreatAnalysis_48.png]]></ATT>
+      <ATT name="Icon"><![CDATA[res/icon/gui/ThreatAnalysis_24.png]]></ATT>
+      <ATT name="IsHidden">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="LabelKey"><![CDATA[%stereotype.ThreatAnalysis.label]]></ATT>
+      <ATT name="BaseClassName"><![CDATA[Infrastructure.Dependency]]></ATT>
+      <ATT name="Name"><![CDATA[ThreatAnalysis]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES></DEPENDENCIES>
+  </OBJECT>
+</EXT>

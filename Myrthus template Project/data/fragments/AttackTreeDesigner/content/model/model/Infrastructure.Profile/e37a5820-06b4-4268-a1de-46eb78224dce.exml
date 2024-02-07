@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="attacktree" version="4">
+  <OBJECT>
+    <ID name="attacktree" mc="Infrastructure.Profile" uid="e37a5820-06b4-4268-a1de-46eb78224dce"/>
+    <PID name="AttackTreeDesigner" mc="Infrastructure.ModuleComponent" uid="e9061c29-1a92-4608-891f-1e3d3b2f2bd6"/>
+    <ATTRIBUTES>
+      <ATT name="Name"><![CDATA[attacktree]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="DefinedStereotype">
+        <COMPID name="AND" mc="Infrastructure.Stereotype" uid="25f299d0-3f80-4347-964f-4a317676e21e"/>
+        <COMPID name="OR" mc="Infrastructure.Stereotype" uid="3664495d-49db-45c1-a18b-4e4e7cb08345"/>
+        <COMPID name="Attack" mc="Infrastructure.Stereotype" uid="02703c05-0dd1-4698-b017-b46d57d79e0e"/>
+        <COMPID name="Root" mc="Infrastructure.Stereotype" uid="d05ac5e1-3789-443f-8fb9-d7be2ce89edc"/>
+        <COMPID name="SubTree" mc="Infrastructure.Stereotype" uid="eb03144b-ffdf-4643-9eea-d9008800a617"/>
+        <COMPID name="Connection" mc="Infrastructure.Stereotype" uid="040af89d-22db-4117-acb5-e9ae7f333c60"/>
+        <COMPID name="Operator" mc="Infrastructure.Stereotype" uid="661729c8-31ab-40bb-a3fc-7a065dbae0c2"/>
+        <COMPID name="Node" mc="Infrastructure.Stereotype" uid="9c3f6aa5-547c-4558-87db-d64dca132d75"/>
+        <COMPID name="TreeReference" mc="Infrastructure.Stereotype" uid="c85b8741-354e-43f5-be03-a53c72961da3"/>
+        <COMPID name="TreeReferenceAttribute" mc="Infrastructure.Stereotype" uid="4f155d1d-2a98-43b0-be60-57d26b75b56f"/>
+        <COMPID name="ThreatAnalysis" mc="Infrastructure.Stereotype" uid="53408021-45e2-4fc6-84c4-8f567a6b7a99"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Operator" version="4">
+  <OBJECT>
+    <ID name="Operator" mc="Infrastructure.Stereotype" uid="661729c8-31ab-40bb-a3fc-7a065dbae0c2"/>
+    <PID name="attacktree" mc="Infrastructure.Profile" uid="e37a5820-06b4-4268-a1de-46eb78224dce"/>
+    <ATTRIBUTES>
+      <ATT name="Image"></ATT>
+      <ATT name="Icon"></ATT>
+      <ATT name="IsHidden">false</ATT>
+      <ATT name="IsAbstract">true</ATT>
+      <ATT name="LabelKey"><![CDATA[%stereotype.Operator.label]]></ATT>
+      <ATT name="BaseClassName"><![CDATA[Standard.Class]]></ATT>
+      <ATT name="Name"><![CDATA[Operator]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <LINK relation="Parent">
+        <ID name="Node" mc="Infrastructure.Stereotype" uid="9c3f6aa5-547c-4558-87db-d64dca132d75"/>
+      </LINK>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>
