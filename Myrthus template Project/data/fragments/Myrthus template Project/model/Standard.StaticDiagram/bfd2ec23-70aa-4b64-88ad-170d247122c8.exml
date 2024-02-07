@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Model Block diagram" version="4">
+  <OBJECT>
+    <ID name="Model Block diagram" mc="Standard.StaticDiagram" uid="bfd2ec23-70aa-4b64-88ad-170d247122c8"/>
+    <PID name="Model" mc="Standard.Package" uid="a290f63e-4631-4fec-886b-87396caca9d0"/>
+    <ATTRIBUTES>
+      <ATT name="UiDataVersion">2</ATT>
+      <ATT name="UiData"><![CDATA[eJztVd9v2jAQ/lesvGMgRYMHSlVIhVDTUsE2qU/VJb5mLv6BbNOS/34xCV1JB8ukan3ZU+yz7+67776LhxdbKcgzGsu1Og+6tBOQi9Fwnjxh6ghnhSkgLl/jeaBNRqVmKLimGymodeD4inHIDEiKjDttKAqUqJwtT9P96VQud/uo3AdEwpM2D695O8FoeGf0Go3LiQJZpBOQ642LwEFx9h3EBiscaiNE0B4N23uHd65LlwsMDqoIf1fFHp319y1NtUFa+jbANwGbAkO2T3a1dQt8bJjltghReRLcuiiZFRh3S7+wuZX1EttlMafKNijAIStQ1Bi78Sby7C2eHFAMDKMHHSHJIwsxDc9a/Q5Aq5d86bUGA2Ctbr/Dwl6/G4bp4DTrAqy7VvpFxZCgqEFYOsNVFoxuPClkLHS6IhUxw/bu4snKtMCZmmi51pa7oiNHojcINfnBBTPoI8Tcej6rz1GPmKuVbX59nEUGXgo4MeRoDlV4dkqFr6PDSn9LhY9QzM5BwH8zOn/n9cnK4+yIHqIpjS/vrxYP48vJ9XQx/3YbfYxEGkzj26b9ks8bMfT+i+FzxPB1fvfRKvjTT6H2/tGqYTWkM+Uw812tOOoeeQN+AuRqr+c=]]></ATT>
+      <ATT name="PreviewData"><![CDATA[data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVCAIAAAAmdTLBAAAAGElEQVR4nGP4TxlgGNU/qn9U/6j+EaofAB8cJiE1IQRUAAAAAElFTkSuQmCC]]></ATT>
+      <ATT name="JsStructure"></ATT>
+      <ATT name="Name"><![CDATA[Model Block diagram]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <LINK relation="Extension">
+        <FOREIGNID name="BlockDiagram" mc="Infrastructure.Stereotype" uid="00bc42ac-0000-1016-0000-000000000000"/>
+      </LINK>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

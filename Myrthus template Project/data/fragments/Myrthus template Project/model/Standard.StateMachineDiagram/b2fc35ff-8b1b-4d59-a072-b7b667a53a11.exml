@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Model State diagram" version="4">
+  <OBJECT>
+    <ID name="Model State diagram" mc="Standard.StateMachineDiagram" uid="b2fc35ff-8b1b-4d59-a072-b7b667a53a11"/>
+    <PID name="State Machine" mc="Standard.StateMachine" uid="62519809-5dd4-40f1-82d9-1f613203fbc4"/>
+    <ATTRIBUTES>
+      <ATT name="UiDataVersion">1</ATT>
+      <ATT name="UiData"><![CDATA[eJztU9tOGzEQ/RXL73FuhLTSEgS7KEJsCEoKUp/Q7HoSTL12ZDuQ/fvauQAJTbSVUOGhT76emTNnzkSni0KSJzRWaHVCm6xByWkvGmaPmDsiuL+ixJUzPKHaTFmhOUqh2byQzDpwyAVMDRTMb5w2DCUWqJzdfuwX43BMVkdKCnjU5v4laYP2ohujZ2hcSRQUPpeEUs9dAg782x3IOa5JqLmUtN6L6hvAO+jYlRLpVgmtP5WwIWfDf8tybZCtsBX4xWBz4Mg3yS4WboSTilmufYg1kuDCJdml57jchk2sM5Bup8b6qppDdRuUQXJPY0eyQbgiT+EmqAOKg+Fs2ZEB5A9CbRpDstYkb3cmk9q3rJnVjnjnew0a3VYt62bHx13otKHZPCy+BOuulH5WKWQod4iMnRFqSnuDoA1ZEiBrfaL68uPB+rTESxXrYqatcL4xe6JXCBU/CMkNhgipsEHV9bIXkQr1y1b/fj5NDDx7OimUaLbN2D5kxpf54Su8ZTJE8BO0FfDfTNDfob6E/wTf44qkz9Kznxej+/Oz+Ko/Gt5eJx9jlAqT+bZ1ryZ6Y4mj/5b4TEv8GN58tBf2Pv0GTtqYbw==]]></ATT>
+      <ATT name="PreviewData"><![CDATA[data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVCAIAAAAmdTLBAAAAGElEQVR4nGP4TxlgGNU/qn9U/6j+EaofAB8cJiE1IQRUAAAAAElFTkSuQmCC]]></ATT>
+      <ATT name="JsStructure"></ATT>
+      <ATT name="Name"><![CDATA[Model State diagram]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <LINK relation="Extension">
+        <FOREIGNID name="SysMLStateMachineDiagram" mc="Infrastructure.Stereotype" uid="0fd7b4e3-d7d7-11e0-9a40-0027103f347c"/>
+      </LINK>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Model Activity diagram" version="4">
+  <OBJECT>
+    <ID name="Model Activity diagram" mc="Standard.ActivityDiagram" uid="0701ca85-1f80-4dc5-b61f-b0abf2069709"/>
+    <PID name="Activity" mc="Standard.Activity" uid="5525dee1-3975-41aa-96d0-6052536796c7"/>
+    <ATTRIBUTES>
+      <ATT name="IsVertical">false</ATT>
+      <ATT name="UiDataVersion">1</ATT>
+      <ATT name="UiData"><![CDATA[eJztVU1P4zAQ/StW7nUTlk8pFJUEVRWBorIg7QlN4mkwOHZlu6X59xvTFGhKu1kJLZc9xRrPm3kz8yYOzxaFIHPUhit56gXU98hZLxylT5hZwlll8ogtp3jqKZ3TQjEUXNFZIShkls+5LRmHXENBkXGrNEWBBUprNu4HRb+2xEuLRwp4UvrhLbvv9cIbraaobUkkFFVSAaWa2RgsVHf3IGZYs5EzIbxuL+yuABvQW1sK9NZq2fuslhU/4/wNzZRGusS24BeByYAhWyW7WNgxTlpmua5C1EiCCxunw4rj69EdIpWCsI0au8tqdtWtUYBFVtFotOzKmcjcWVx3QDLQjDaGQvwjP8jg+KATTI79zj7LDjrpYTDppD6kkz3/8OTIP9ndeAHGXkr1IhNIUTRI3FrNZe71rlxfyCo5qdsTdl99d5anBA5lpIqpMtxWc9mSoEWo6JELptFFSLhxTa0/WxEJl8+mvft5Hmt4qegkUKJe1+KPXVp8WyK2xBsqXIRqh9YC/psF+jvUt8uPsy2KiAc06f+6GD+c96PLwXh0dx1/jUhaLOXHsb0L6IMc9v/L4bvk8HN089U6+NOPYeMtpPXQGlyH0mLuJlv3KdjyHPwGMRy3FA==]]></ATT>
+      <ATT name="PreviewData"><![CDATA[data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVCAIAAAAmdTLBAAAAGElEQVR4nGP4TxlgGNU/qn9U/6j+EaofAB8cJiE1IQRUAAAAAElFTkSuQmCC]]></ATT>
+      <ATT name="JsStructure"></ATT>
+      <ATT name="Name"><![CDATA[Model Activity diagram]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <LINK relation="Extension">
+        <FOREIGNID name="SysMLActivityDiagram" mc="Infrastructure.Stereotype" uid="374ff012-d57b-11e0-8ec9-0027103f347c"/>
+      </LINK>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>
