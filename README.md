@@ -22,6 +22,7 @@ Step 1: Install Modelio 5.4.1
 Step 2: Clone the Project and make it a zip file
 
 Step 3: Import the Project into Modelio
+
     Open Modelio 5.4.1 on your system.
     Go to the "File" menu and select "Import a project".
     Select the zipped project.
