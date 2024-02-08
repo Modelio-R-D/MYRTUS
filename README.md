@@ -19,7 +19,10 @@ Guidelines:
 Step 1: Install Modelio 5.4.1
  - Visit the Modelio releases page on GitHub by clicking here and download the appropriate installer for your operating system:  https://github.com/ModelioOpenSource/Modelio/releases/tag/v5.4.1.
 
-Step 2: Clone the Myrthus template Project and make it a zip file, git clone https://github.com/Modelio-R-D/MYRTUS.git
+Step 2: Clone the Myrthus template Project and make it a zip file, 
+   git clone https://github.com/Modelio-R-D/MYRTUS.git
+   zip the "Myrthus template Project"
+
 
 Step 3: Import the Project into Modelio
 
