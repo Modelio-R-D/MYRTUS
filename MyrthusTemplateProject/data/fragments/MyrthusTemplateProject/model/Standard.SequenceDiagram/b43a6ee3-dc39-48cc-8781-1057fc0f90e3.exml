@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Sequence diagram" version="4">
+  <OBJECT>
+    <ID name="Sequence diagram" mc="Standard.SequenceDiagram" uid="b43a6ee3-dc39-48cc-8781-1057fc0f90e3"/>
+    <PID name="Interaction" mc="Standard.Interaction" uid="83041322-b493-4bbb-8162-bc4eda220e78"/>
+    <ATTRIBUTES>
+      <ATT name="UiDataVersion">1</ATT>
+      <ATT name="UiData"><![CDATA[eJztU1FP2zAQ/iuW3+umpBtFCkWQoAqRUdSySXtCl/jamTl2ZzvQ/HscmjJaaBUkNF725NPdfXffnb+LTpaFJPdorNDqmPZYQMnJMBpnd5g7Irh3UeKqBR5Tbeas0Byl0KwsJLP4p0SVIxcwN1AwbzhtGEosUDn7Kj4qpo0nWXkoKeBOm9vn7gEdRtdGL9C4iigofFMJlS5dAg587AfIEhs2qpSSdodRdw14BZ26SiLdmOXgrVnW/Gydb1muDbIVtgW/GGwOHPm62fnSTXDWssuVL9EgCS5dkl14jk9mbcQ6A+m2Zuyuptk3t0EJDrmnsbWyb7WL3NeeejugOBjOtj6FZP0QviKGHZ6HR53+IM87g8NBr9MLvhzO8mB2FGC4f/ESrLtU+kGlkKHcIjF1Rqg5Ha7bkmYxUfcpa+9gWuKFinWx0FY4/yM7SrcoFf8SkhusK6TC1utsnp2IVKjftn362Twx8ODppFCh2VRhuE+Fz+fDV3jLZF3BX89GwX9zOu9DfbrwBN+hiGTE0tOf55Pbs9P4cjQZf79KPkYkLc7x5bf9FdALOfT/y+Gz5HAzvv5oHewMPQIqlZZk]]></ATT>
+      <ATT name="PreviewData"><![CDATA[data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVCAIAAAAmdTLBAAAAGElEQVR4nGP4TxlgGNU/qn9U/6j+EaofAB8cJiE1IQRUAAAAAElFTkSuQmCC]]></ATT>
+      <ATT name="JsStructure"></ATT>
+      <ATT name="Name"><![CDATA[Sequence diagram]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <LINK relation="Extension">
+        <FOREIGNID name="SysMLSequenceDiagram" mc="Infrastructure.Stereotype" uid="0691339b-d7d7-11e0-9a40-0027103f347c"/>
+      </LINK>
+      <COMP relation="Descriptor">
+        <OBJECT>
+          <ID name="" mc="Infrastructure.Note" uid="70b89e30-18ae-4c18-a257-9b469a806011"/>
+          <ATTRIBUTES>
+            <ATT name="Content"></ATT>
+            <ATT name="MimeType"></ATT>
+            <ATT name="Name"></ATT>
+            <ATT name="status">1970354901745664</ATT>
+          </ATTRIBUTES>
+          <DEPENDENCIES>
+            <LINK relation="Model">
+              <FOREIGNID name="description" mc="Infrastructure.NoteType" uid="00000000-0000-3e81-0000-000000000000"/>
+            </LINK>
+          </DEPENDENCIES>
+        </OBJECT>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

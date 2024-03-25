@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Browser" version="4">
+  <OBJECT>
+    <ID name="Browser" mc="Standard.Package" uid="81a98808-891b-47c7-8e9d-6f1a7f72f510"/>
+    <PID name="docaposte" mc="Standard.Package" uid="26c6416a-5c0c-4c01-9516-433b4e9ce71e"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[Browser]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="Page" mc="Standard.Class" uid="867c05ea-9147-4146-8fc8-7c60342a0496"/>
+        <COMPID name="PageLoader" mc="Standard.Class" uid="44c69b27-f8f4-496b-b409-13b0813f71dd"/>
+        <COMPID name="Browser" mc="Standard.Class" uid="bd8009f8-6ba0-48d5-9a5a-ecdb825e4828"/>
+      </COMP>
+      <COMP relation="Product">
+        <COMPID name="Browser Class diagram" mc="Standard.ClassDiagram" uid="f1e7c47c-b0d5-4845-90df-b1c8c0df72e6"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="MyrthusTemplateProject" version="4">
+  <OBJECT>
+    <ID name="MyrthusTemplateProject" mc="Standard.Package" uid="91f027c5-e1ab-42e1-9f50-9b91b77ad56d"/>
+    <PID name="MyrthusTemplateProject" mc="Standard.Project" uid="b17142be-d3ba-4192-8b2e-c88ae5623dac"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[MyrthusTemplateProject]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedBehavior">
+        <COMPID name="Activity" mc="Standard.Activity" uid="285dafab-a3c6-4b4e-84f7-18a179df3111"/>
+        <COMPID name="Interaction" mc="Standard.Interaction" uid="83041322-b493-4bbb-8162-bc4eda220e78"/>
+        <COMPID name="State Machine" mc="Standard.StateMachine" uid="88062350-a317-4537-9939-9db6d6f6d520"/>
+        <COMPID name="Activity1" mc="Standard.Activity" uid="36d803b6-bc05-4e4c-ae2f-ed12d5083f09"/>
+      </COMP>
+      <COMP relation="OwnedElement">
+        <COMPID name="com" mc="Standard.Package" uid="62aa8c31-c46e-4ea4-a2a5-0c13fc0c7f55"/>
+        <COMPID name="Tree" mc="Standard.Class" uid="e8dd6387-233f-43e3-a801-841e07a73ef4"/>
+      </COMP>
+      <COMP relation="Product">
+        <COMPID name="myrthustemplateproject Package diagram" mc="Standard.StaticDiagram" uid="83fe43b6-a0b0-4413-8e73-63600adfb236"/>
+        <COMPID name="myrthustemplateproject Usecase diagram" mc="Standard.UseCaseDiagram" uid="066595e8-09cf-4176-b2c6-7def4133970a"/>
+        <COMPID name="myrthustemplateproject Block diagram" mc="Standard.StaticDiagram" uid="de6c2595-fe92-4460-96a2-3a45fb5521a1"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Activity diagram" version="4">
+  <OBJECT>
+    <ID name="Activity diagram" mc="Standard.ActivityDiagram" uid="c76e9717-95b8-40cd-91b1-d529893f50f8"/>
+    <PID name="Activity1" mc="Standard.Activity" uid="36d803b6-bc05-4e4c-ae2f-ed12d5083f09"/>
+    <ATTRIBUTES>
+      <ATT name="IsVertical">false</ATT>
+      <ATT name="UiDataVersion">1</ATT>
+      <ATT name="UiData"><![CDATA[eJztVU1v4jAQ/StW7hjSloVIKRVNKoSaLRX9kPZUTeIhdevYyDaU/PsmJbQlLGxWqraXPcUaz5t5M/Mm9s9WmSBL1IYreeq4tOOQs4E/iZ8wsYSzwuQQm8/x1FE6pZliKLiii0xQSCxfcpszDqmGjCLjVmmKAjOU1uzcj7JhZQnXFodk8KT0w3v2jjPwr7Wao7Y5kZAVSQXkamFDsFDc3YNYYMVGLoRw2gO/vQHsQG9sLtDZquXod7Vs+JnS39BEaaRrbAN+AZgEGLJNsouVneKsYZarIkSFJLiyYTwuOL4dy0OgYhC2VmN7Xc2hujUKsMgKGrWW/SxNZFlayu6AZKAZrQ2FJL0f6PXcXsvrxv3WSSdhLc+N3RbrHnl973jW7cz6hxsvwNhLqV5kBDGKGokbq7lMncEmLaka47ffvA4WpgSOZaCyuTLcFhPZE7pBqOCRC6axjBBxU7az+uxFRFw+m+bu52mo4aWgE0GOeluFx4dU+L4+bI03VJQRiu3ZCvhvVufvUN8uPM72KCIc0Wj462L6cD4MLkfTyd1V+DUiabCOn8f2IaBPcjj5L4fvksPt5PqrdfCnH8POK0irodW4jqXFtJxs1Sd3z0PwCgg+tGQ=]]></ATT>
+      <ATT name="PreviewData"><![CDATA[data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVCAIAAAAmdTLBAAAAGElEQVR4nGP4TxlgGNU/qn9U/6j+EaofAB8cJiE1IQRUAAAAAElFTkSuQmCC]]></ATT>
+      <ATT name="JsStructure"></ATT>
+      <ATT name="Name"><![CDATA[Activity diagram]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <LINK relation="Extension">
+        <FOREIGNID name="SysMLActivityDiagram" mc="Infrastructure.Stereotype" uid="374ff012-d57b-11e0-8ec9-0027103f347c"/>
+      </LINK>
+      <COMP relation="Descriptor">
+        <OBJECT>
+          <ID name="" mc="Infrastructure.Note" uid="54d52692-5caa-444c-8855-8f49b410fb31"/>
+          <ATTRIBUTES>
+            <ATT name="Content"></ATT>
+            <ATT name="MimeType"></ATT>
+            <ATT name="Name"></ATT>
+            <ATT name="status">1970354901745664</ATT>
+          </ATTRIBUTES>
+          <DEPENDENCIES>
+            <LINK relation="Model">
+              <FOREIGNID name="description" mc="Infrastructure.NoteType" uid="00000000-0000-3e81-0000-000000000000"/>
+            </LINK>
+          </DEPENDENCIES>
+        </OBJECT>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="MyrthusTemplateProject" version="4">
+  <OBJECT>
+    <ID name="MyrthusTemplateProject" mc="Standard.Project" uid="b17142be-d3ba-4192-8b2e-c88ae5623dac"/>
+    <ATTRIBUTES>
+      <ATT name="ProjectContext"></ATT>
+      <ATT name="ProjectDescr"></ATT>
+      <ATT name="Name"><![CDATA[MyrthusTemplateProject]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="Model">
+        <COMPID name="myrthustemplateproject" mc="Standard.Package" uid="91f027c5-e1ab-42e1-9f50-9b91b77ad56d"/>
+      </COMP>
+      <COMP relation="DiagramRoot">
+        <COMPID name="MyrthusTemplateProject" mc="Infrastructure.DiagramSet" uid="90af7da8-1593-470b-88e1-4f09eceb35c1"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

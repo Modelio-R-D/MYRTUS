@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Activity diagram" version="4">
+  <OBJECT>
+    <ID name="Activity diagram" mc="Standard.ActivityDiagram" uid="8d488be7-92eb-4b9f-a88a-cb15f0375f57"/>
+    <PID name="Activity" mc="Standard.Activity" uid="285dafab-a3c6-4b4e-84f7-18a179df3111"/>
+    <ATTRIBUTES>
+      <ATT name="IsVertical">false</ATT>
+      <ATT name="UiDataVersion">1</ATT>
+      <ATT name="UiData"><![CDATA[eJztVd9P4kAQ/lc2fWcBhVCTisHWEGJPDJ4m92Sm3aG33v4guwvS//5aKZ6UA2tizpd76mZ2vplvZr7pBhdrKcgKjeVanXtd2vHIxTCYJk+YOsJZYfKIyxd47mmTUakZCq7pUgoKqeMr7nLGITMgKTLutKEoUKJydu9+LEeVJdpYPCLhSZvH1+wdbxjcGr1A43KiQBZJBeR66SJwUNw9gFhixUYthfDaw6C9BexB71wu0Nup5eRvtWz52dLf0lQbpBtsA34h2BQYsm2yq7Wb4bxhlpsiRIUkuHZRMik4vhzLQ6gTEK5WY3tTzbG6DQpwyAoatZZ9K01kVVrK7oBiYBitDYX4rOf7CQ5aZyeYtHrJ2bwFvg+tNOn2553TQX/eHxxvvADrrpV+VjEkKGok7pzhKvOG27SkakzQfvE6WpgWOFGhlgttuSsmciB0g1DhTy6YwTJCzG3ZzupzEBFz9cs2d7/MIgPPBZ0YcjS7Kjw9psLX9WEbvKWijFBsz07Af7M6H0N9ufA4O6CIaEzj0Y+r2ePlKLwez6b3N9HniKTBOr4d2x8BvZFD778cvkoO36e3n62D934Me68grYZW4zpRDrNyslWfugcegt8/T7aV]]></ATT>
+      <ATT name="PreviewData"><![CDATA[data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVCAIAAAAmdTLBAAAAGElEQVR4nGP4TxlgGNU/qn9U/6j+EaofAB8cJiE1IQRUAAAAAElFTkSuQmCC]]></ATT>
+      <ATT name="JsStructure"></ATT>
+      <ATT name="Name"><![CDATA[Activity diagram]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES></DEPENDENCIES>
+  </OBJECT>
+</EXT>

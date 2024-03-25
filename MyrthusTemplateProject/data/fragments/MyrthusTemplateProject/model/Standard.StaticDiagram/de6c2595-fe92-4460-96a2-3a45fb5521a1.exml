@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="myrthustemplateproject Block diagram" version="4">
+  <OBJECT>
+    <ID name="myrthustemplateproject Block diagram" mc="Standard.StaticDiagram" uid="de6c2595-fe92-4460-96a2-3a45fb5521a1"/>
+    <PID name="MyrthusTemplateProject" mc="Standard.Package" uid="91f027c5-e1ab-42e1-9f50-9b91b77ad56d"/>
+    <ATTRIBUTES>
+      <ATT name="UiDataVersion">2</ATT>
+      <ATT name="UiData"><![CDATA[eJztVV1v2kAQ/CuW3znAwUhIhCjgCKG4IYK0Up+ixbc4F+7Dujsn+N/XxnYa3EJdKWpe+uTz3c3uzO6sPb7aC+68oDZMyUu3T3quczUZLzfPGFmH0XzLdWyW4KWrdEyEosiZIqngxFiwbEcZxBoEQcqs0gQ5CpTWlKdRfToX68N7UL67joBnpR/f8vbcyfheqwS1zRwJIk/HIVOpDcBCfvYNeIoVD5ly7nYn424N+AW6thlH90iF9zsVNTtT3DckUhpJiW3BbwYmAoq0Tnaztyvctsxyl4eokA7ubbBZ5BwPy2JhMiOaErulmHOyNXKwSHMWjYp9Kbacl2KnKA5ICpqSo444FIeR54/8zhZHXmcwGPY6oyF4nQsY+NuN73t96J+vOgdjb6V6lSFskDcorK1mMnYnItP2KTUWRVKQTbQ6tGjKVbRzqkqNuwfkWamK40LOlEiUYTZv0Yl0LULNnhinGosIITNFgavHSUTI5M60vz6NAw2vOZ0QMtTHtrw4Z8u3WaIl3hBeRMiH6Sjgv5mlv0N9shUZPeGHYE7C6+83q8fp9ex2vlp+vQs+xiItxvN9037a550ZBv/N8DlmeFjef7QL/vRRaPwQSdWwBtOFtBgXXa1q1FRa5/sB7ca2cg==]]></ATT>
+      <ATT name="PreviewData"><![CDATA[data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVCAIAAAAmdTLBAAAAGElEQVR4nGP4TxlgGNU/qn9U/6j+EaofAB8cJiE1IQRUAAAAAElFTkSuQmCC]]></ATT>
+      <ATT name="JsStructure"></ATT>
+      <ATT name="Name"><![CDATA[myrthustemplateproject Block diagram]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <LINK relation="Extension">
+        <FOREIGNID name="BlockDiagram" mc="Infrastructure.Stereotype" uid="00bc42ac-0000-1016-0000-000000000000"/>
+      </LINK>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

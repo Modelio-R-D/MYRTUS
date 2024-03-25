@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="State Machine diagram" version="4">
+  <OBJECT>
+    <ID name="State Machine diagram" mc="Standard.StateMachineDiagram" uid="1b4a3566-fe41-4c2c-a324-ad8ca3452d0c"/>
+    <PID name="State Machine" mc="Standard.StateMachine" uid="88062350-a317-4537-9939-9db6d6f6d520"/>
+    <ATTRIBUTES>
+      <ATT name="UiDataVersion">1</ATT>
+      <ATT name="UiData"><![CDATA[eJztU01P4zAQ/SuW73W/AtpDKIIEVYhAUcsicUKTeCgGx65sF5p/v3absrS7rYKE2D1w8tieN/Nm5k18vCgleUFjhVZHtMs6lBwP4lH+hIUjgvsnSlw1wyOqzZSVmqMUms1LyawDh1zA1EDJvOG0YSixROXs5uewnIRrurpSUsKTNvdvSTt0EF8bPUPjKqKg9LkkVHruUnDg/25BzrEmoeZS0vYgbq8Bf0AnrpJIN0ro/a2ENTkb/C0rtEG2wjbgl4AtgCNfJztbuDE+NMxy5UPUSIILl+bnnuPSDEaic5Buq8b2qpp9dRuUoeWexlbLLsMTeQkvoTugOBjOlhO5hOJRqPVgSDePoH9weNh6wKjbiope0YJ+L2oB/1FAPzro8U6xv/kSrLtQ+lVlkKPcIjJxRqgpHSxTkzo3qTsUt5eueyvUEs9VosuZtsL50eyI3yBU8igkNxgiZMKGvtbHTkQm1LNt7n46TQ28ejoZVGg25djfJ8e3DeIrvGUyRPA7tBHwa3boY6j/QoGC71BFOmTZyd3Z+P70JLkYjkc/r9LPEUqD3Xw/ut8ieieJ6FsS/1ISN6Prz9bCzq9fKAaZAw==]]></ATT>
+      <ATT name="PreviewData"><![CDATA[data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVCAIAAAAmdTLBAAAAGElEQVR4nGP4TxlgGNU/qn9U/6j+EaofAB8cJiE1IQRUAAAAAElFTkSuQmCC]]></ATT>
+      <ATT name="JsStructure"></ATT>
+      <ATT name="Name"><![CDATA[State Machine diagram]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <LINK relation="Extension">
+        <FOREIGNID name="SysMLStateMachineDiagram" mc="Infrastructure.Stereotype" uid="0fd7b4e3-d7d7-11e0-9a40-0027103f347c"/>
+      </LINK>
+      <COMP relation="Descriptor">
+        <OBJECT>
+          <ID name="" mc="Infrastructure.Note" uid="067ab068-296a-4923-9e2f-e8041c90a2d8"/>
+          <ATTRIBUTES>
+            <ATT name="Content"></ATT>
+            <ATT name="MimeType"></ATT>
+            <ATT name="Name"></ATT>
+            <ATT name="status">1970354901745664</ATT>
+          </ATTRIBUTES>
+          <DEPENDENCIES>
+            <LINK relation="Model">
+              <FOREIGNID name="description" mc="Infrastructure.NoteType" uid="00000000-0000-3e81-0000-000000000000"/>
+            </LINK>
+          </DEPENDENCIES>
+        </OBJECT>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>
