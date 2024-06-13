@@ -33,10 +33,17 @@ Step 3: Import the Project into Modelio
     Click "Finish" to import the project into Modelio.
 
 
-Contributing
+**Dependencies**
+* link:http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html [Java 8 JDK]
+* link:https://github.com/ModelioOpenSource/ModelioOpen [Modelio Open source 5.4.1]
+ 
+**Contributing**
 
-Contributions are welcome. Please fork and make your changes. For major changes, please open an issue and discuss it with the other authors.
+Contributions are welcome.
+Please fork and make your changes. For major changes, please open an issue and discuss it with the other authors.
 
-Affiliation
+**Affiliation**
 
 This module is developed by Softeam R&D Department and this work is supported by the European Commission through the link:https://myrtus-project.eu/ [MYRTUS Horizon Europe project].
+
+
