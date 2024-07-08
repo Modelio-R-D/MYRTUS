@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="TNodeType" version="4">
+  <OBJECT>
+    <ID name="TNodeType" mc="Infrastructure.Stereotype" uid="47cdd09e-013d-4670-b757-f5736d2bb48c"/>
+    <PID name="Tosca" mc="Infrastructure.Profile" uid="052601e7-dbd7-42a1-9f15-ca5eaf0707f8"/>
+    <ATTRIBUTES>
+      <ATT name="Image"><![CDATA[res/icon/gui/node_type48.png]]></ATT>
+      <ATT name="Icon"><![CDATA[res/icon/gui/node_type24.png]]></ATT>
+      <ATT name="IsHidden">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="LabelKey"><![CDATA[%stereotype.TNodeType.label]]></ATT>
+      <ATT name="BaseClassName"><![CDATA[Standard.Class]]></ATT>
+      <ATT name="Name"><![CDATA[TNodeType]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <LINK relation="Parent">
+        <ID name="TEntityType" mc="Infrastructure.Stereotype" uid="fecd81a5-da41-4a07-a507-6bfaf5bbadd2"/>
+      </LINK>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

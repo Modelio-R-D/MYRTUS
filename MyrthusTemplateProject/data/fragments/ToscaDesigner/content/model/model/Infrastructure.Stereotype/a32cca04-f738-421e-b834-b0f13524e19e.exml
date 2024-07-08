@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="TEntityTemplate" version="4">
+  <OBJECT>
+    <ID name="TEntityTemplate" mc="Infrastructure.Stereotype" uid="a32cca04-f738-421e-b834-b0f13524e19e"/>
+    <PID name="Tosca" mc="Infrastructure.Profile" uid="052601e7-dbd7-42a1-9f15-ca5eaf0707f8"/>
+    <ATTRIBUTES>
+      <ATT name="Image"></ATT>
+      <ATT name="Icon"></ATT>
+      <ATT name="IsHidden">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="LabelKey"><![CDATA[%stereotype.TEntityTemplate.label]]></ATT>
+      <ATT name="BaseClassName"><![CDATA[Infrastructure.ModelElement]]></ATT>
+      <ATT name="Name"><![CDATA[TEntityTemplate]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="DefinedTable">
+        <COMPID name="TEntityTemplatePropertyTable" mc="Infrastructure.PropertyTableDefinition" uid="9031f83d-b971-41ab-b109-b02f026305ef"/>
+      </COMP>
+      <LINK relation="Parent">
+        <ID name="TExtensibleElements" mc="Infrastructure.Stereotype" uid="1aad84ed-4c30-40ec-a4d8-6712bb6bd018"/>
+      </LINK>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

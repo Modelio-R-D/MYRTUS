@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="FaceDetectionService" version="4">
+  <OBJECT>
+    <ID name="FaceDetectionService" mc="Standard.Class" uid="146ad77f-44fa-4ab7-9d63-06c6715a3dbe"/>
+    <PID name="Tosca Model" mc="Standard.Package" uid="6abeb7d2-fb83-4d33-aacf-b10cf3d4b305"/>
+    <ATTRIBUTES>
+      <ATT name="IsActive">false</ATT>
+      <ATT name="IsMain">false</ATT>
+      <ATT name="IsElementary">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[FaceDetectionService]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <LINK relation="Extension">
+        <FOREIGNID name="TNodeType" mc="Infrastructure.Stereotype" uid="47cdd09e-013d-4670-b757-f5736d2bb48c"/>
+      </LINK>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

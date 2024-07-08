@@ -1,22 +1,29 @@
-#Mon Mar 25 11:39:04 CET 2024
+#Mon Jul 08 14:11:56 CEST 2024
+org.modelio.app.diagram.editor.OpenedDiagrams9='ToscaModelDiagram' {63cb7244-2d4d-4181-8177-e05163f05d55} Standard.StaticDiagram
+org.modelio.app.module.propertytab.GModule\ [id\='ToscaDesigner',\ version\='0.0.02',\ type\='MODULE',\ definitionScope\='LOCAL',\ state\='MOUNTED']\ runtime\ module_ToscaPropertyPage.org.modelio.diagram.perspective.parentId=app.ui.ext_com.partstack.right
+org.modelio.app.module.propertytab.GModule\ [id\='SysMLArchitect',\ version\='5.4.00',\ type\='MODULE',\ definitionScope\='LOCAL',\ state\='MOUNTED']\ runtime\ module_SysMLPropertyPage.org.modelio.development.perspective.parentId=app.ui.ext_com.partstack.bottom
+org.modelio.app.module.propertytab.GModule\ [id\='AttackTreeDesigner',\ version\='2.0.01',\ type\='MODULE',\ definitionScope\='LOCAL',\ state\='MOUNTED']\ runtime\ module_Attack_Tree.org.modelio.development.perspective.parentId=app.ui.ext_com.partstack.bottom
+org.modelio.app.module.propertytab.GModule\ [id\='ToscaDesigner',\ version\='0.0.02',\ type\='MODULE',\ definitionScope\='LOCAL',\ state\='MOUNTED']\ runtime\ module_ToscaPropertyPage.org.modelio.full.perspective.parentId=app.ui.ext_com.partstack.bottom
+org.modelio.app.module.propertytab.GModule\ [id\='JavaDesigner',\ version\='5.4.02',\ type\='MODULE',\ definitionScope\='LOCAL',\ state\='MOUNTED']\ runtime\ module_.org.modelio.app.ui.model.perspective.parentId=org.modelio.app.bottom.parts
+org.modelio.app.module.propertytab.GModule\ [id\='JavaDesigner',\ version\='5.4.02',\ type\='MODULE',\ definitionScope\='LOCAL',\ state\='MOUNTED']\ runtime\ module_.org.modelio.full.perspective.parentId=app.ui.ext_com.partstack.bottom
+org.modelio.app.module.propertytab.GModule\ [id\='JavaDesigner',\ version\='5.4.02',\ type\='MODULE',\ definitionScope\='LOCAL',\ state\='MOUNTED']\ runtime\ module_.org.modelio.development.perspective.parentId=app.ui.ext_com.partstack.bottom
 org.modelio.app.module.propertytab.GModule\ [id\='AttackTreeDesigner',\ version\='2.0.01',\ type\='MODULE',\ definitionScope\='LOCAL',\ state\='MOUNTED']\ runtime\ module_Attack_Tree.org.modelio.app.ui.model.perspective.parentId=org.modelio.app.bottom.parts
+org.modelio.app.diagram.editor.OpenedDiagrams10='Diagram' {14280ba0-5b10-429e-a182-b3540cb23c77} Standard.StaticDiagram
+org.modelio.app.diagram.editor.OpenedDiagrams11='Topology Template Diagram' {578b7ece-4c4a-4570-9f9d-41253a7bdc95} Standard.StaticDiagram
 org.modelio.app.module.propertytab.GModule\ [id\='AttackTreeDesigner',\ version\='2.0.01',\ type\='MODULE',\ definitionScope\='LOCAL',\ state\='MOUNTED']\ runtime\ module_Attack_Tree.org.modelio.diagram.perspective.parentId=app.ui.ext_com.partstack.right
 org.modelio.app.module.propertytab.GModule\ [id\='SysMLArchitect',\ version\='5.4.00',\ type\='MODULE',\ definitionScope\='LOCAL',\ state\='MOUNTED']\ runtime\ module_SysMLPropertyPage.org.modelio.diagram.perspective.parentId=app.ui.ext_com.partstack.right
 org.modelio.app.module.propertytab.GModule\ [id\='SysMLArchitect',\ version\='5.4.00',\ type\='MODULE',\ definitionScope\='LOCAL',\ state\='MOUNTED']\ runtime\ module_SysMLPropertyPage.org.modelio.full.perspective.parentId=app.ui.ext_com.partstack.bottom
 org.modelio.app.module.propertytab.GModule\ [id\='AttackTreeDesigner',\ version\='2.0.01',\ type\='MODULE',\ definitionScope\='LOCAL',\ state\='MOUNTED']\ runtime\ module_Attack_Tree.org.modelio.full.perspective.parentId=app.ui.ext_com.partstack.bottom
-org.modelio.app.module.propertytab.GModule\ [id\='SysMLArchitect',\ version\='5.4.00',\ type\='MODULE',\ definitionScope\='LOCAL',\ state\='MOUNTED']\ runtime\ module_SysMLPropertyPage.org.modelio.development.perspective.parentId=app.ui.ext_com.partstack.bottom
 org.modelio.app.diagram.editor.OpenedDiagrams0='Activity diagram' {8d488be7-92eb-4b9f-a88a-cb15f0375f57} Standard.ActivityDiagram
-org.modelio.app.module.propertytab.GModule\ [id\='AttackTreeDesigner',\ version\='2.0.01',\ type\='MODULE',\ definitionScope\='LOCAL',\ state\='MOUNTED']\ runtime\ module_Attack_Tree.org.modelio.development.perspective.parentId=app.ui.ext_com.partstack.bottom
 org.modelio.app.module.propertytab.GModule\ [id\='SysMLArchitect',\ version\='5.4.00',\ type\='MODULE',\ definitionScope\='LOCAL',\ state\='MOUNTED']\ runtime\ module_SysMLPropertyPage.org.modelio.app.ui.model.perspective.parentId=org.modelio.app.bottom.parts
+org.modelio.app.module.propertytab.GModule\ [id\='ToscaDesigner',\ version\='0.0.02',\ type\='MODULE',\ definitionScope\='LOCAL',\ state\='MOUNTED']\ runtime\ module_ToscaPropertyPage.org.modelio.app.ui.model.perspective.parentId=org.modelio.app.bottom.parts
 org.modelio.app.diagram.editor.OpenedDiagrams3='Browser Class diagram' {f1e7c47c-b0d5-4845-90df-b1c8c0df72e6} Standard.ClassDiagram
-org.modelio.app.module.propertytab.GModule\ [id\='JavaDesigner',\ version\='5.4.02',\ type\='MODULE',\ definitionScope\='LOCAL',\ state\='MOUNTED']\ runtime\ module_.org.modelio.app.ui.model.perspective.parentId=org.modelio.app.bottom.parts
 org.modelio.app.diagram.editor.OpenedDiagrams4='Activity diagram' {c76e9717-95b8-40cd-91b1-d529893f50f8} Standard.ActivityDiagram
-org.modelio.app.module.propertytab.GModule\ [id\='JavaDesigner',\ version\='5.4.02',\ type\='MODULE',\ definitionScope\='LOCAL',\ state\='MOUNTED']\ runtime\ module_.org.modelio.full.perspective.parentId=app.ui.ext_com.partstack.bottom
 org.modelio.app.diagram.editor.OpenedDiagrams1='Sequence diagram' {b43a6ee3-dc39-48cc-8781-1057fc0f90e3} Standard.SequenceDiagram
 org.modelio.app.module.propertytab.GModule\ [id\='JavaDesigner',\ version\='5.4.02',\ type\='MODULE',\ definitionScope\='LOCAL',\ state\='MOUNTED']\ runtime\ module_.org.modelio.diagram.perspective.parentId=app.ui.ext_com.partstack.right
+org.modelio.app.module.propertytab.GModule\ [id\='ToscaDesigner',\ version\='0.0.02',\ type\='MODULE',\ definitionScope\='LOCAL',\ state\='MOUNTED']\ runtime\ module_ToscaPropertyPage.org.modelio.development.perspective.parentId=app.ui.ext_com.partstack.bottom
 org.modelio.app.diagram.editor.OpenedDiagrams2='State Machine diagram' {1b4a3566-fe41-4c2c-a324-ad8ca3452d0c} Standard.StateMachineDiagram
 org.modelio.app.diagram.editor.OpenedDiagrams7='myrthustemplateproject Block diagram' {de6c2595-fe92-4460-96a2-3a45fb5521a1} Standard.StaticDiagram
-org.modelio.app.module.propertytab.GModule\ [id\='JavaDesigner',\ version\='5.4.02',\ type\='MODULE',\ definitionScope\='LOCAL',\ state\='MOUNTED']\ runtime\ module_.org.modelio.development.perspective.parentId=app.ui.ext_com.partstack.bottom
 org.modelio.app.diagram.editor.OpenedDiagrams8='Tree Diagram' {1711c8c6-f8b1-435a-8931-184be7570ee6} Standard.ClassDiagram
 org.modelio.app.diagram.editor.OpenedDiagrams5='myrthustemplateproject Package diagram' {83fe43b6-a0b0-4413-8e73-63600adfb236} Standard.StaticDiagram
 org.modelio.app.diagram.editor.OpenedDiagrams6='myrthustemplateproject Usecase diagram' {066595e8-09cf-4176-b2c6-7def4133970a} Standard.UseCaseDiagram

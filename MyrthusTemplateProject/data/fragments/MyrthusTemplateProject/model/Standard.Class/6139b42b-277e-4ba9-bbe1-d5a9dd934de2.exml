@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="TopologyTemplate" version="4">
+  <OBJECT>
+    <ID name="TopologyTemplate" mc="Standard.Class" uid="6139b42b-277e-4ba9-bbe1-d5a9dd934de2"/>
+    <PID name="Tosca Model" mc="Standard.Package" uid="6abeb7d2-fb83-4d33-aacf-b10cf3d4b305"/>
+    <ATTRIBUTES>
+      <ATT name="IsActive">false</ATT>
+      <ATT name="IsMain">false</ATT>
+      <ATT name="IsElementary">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[TopologyTemplate]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <LINK relation="Extension">
+        <FOREIGNID name="TTopologyTemplate" mc="Infrastructure.Stereotype" uid="a52f433c-cf19-4033-99c2-81b4af708744"/>
+      </LINK>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Tosca Model" version="4">
+  <OBJECT>
+    <ID name="Tosca Model" mc="Standard.Package" uid="6abeb7d2-fb83-4d33-aacf-b10cf3d4b305"/>
+    <PID name="MyrthusTemplateProject" mc="Standard.Package" uid="91f027c5-e1ab-42e1-9f50-9b91b77ad56d"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[Tosca Model]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="DemoWorkStation" mc="Standard.Class" uid="d3d6e7d5-490b-411a-bcaa-39fe5c84d4e8"/>
+        <COMPID name="FaceDetectionService" mc="Standard.Class" uid="146ad77f-44fa-4ab7-9d63-06c6715a3dbe"/>
+        <COMPID name="TopologyTemplate" mc="Standard.Class" uid="6139b42b-277e-4ba9-bbe1-d5a9dd934de2"/>
+        <COMPID name="CameraFeed" mc="Standard.Class" uid="3580812e-f3cc-48c4-a32e-80a880c7cfec"/>
+        <COMPID name="RelationshipType" mc="Standard.Class" uid="2c01ba41-1eed-4b20-ae39-3d6d8b03cb82"/>
+        <COMPID name="ServiceTemplate" mc="Standard.Class" uid="4be41bd2-9d9d-406f-901c-feae1ef16ab9"/>
+        <COMPID name="NodeTemplate" mc="Standard.Class" uid="753b15fe-efda-4e46-9dc5-76e4e5dcf9ac"/>
+      </COMP>
+      <LINK relation="Extension">
+        <FOREIGNID name="ToscaModel" mc="Infrastructure.Stereotype" uid="20565008-115d-4fad-800f-134ab276f611"/>
+      </LINK>
+      <COMP relation="Product">
+        <COMPID name="ToscaModelDiagram" mc="Standard.StaticDiagram" uid="63cb7244-2d4d-4181-8177-e05163f05d55"/>
+        <COMPID name="Diagram" mc="Standard.StaticDiagram" uid="14280ba0-5b10-429e-a182-b3540cb23c77"/>
+        <COMPID name="Topology Template Diagram" mc="Standard.StaticDiagram" uid="578b7ece-4c4a-4570-9f9d-41253a7bdc95"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

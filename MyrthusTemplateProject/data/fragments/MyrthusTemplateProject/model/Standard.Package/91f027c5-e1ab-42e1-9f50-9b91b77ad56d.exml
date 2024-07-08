@@ -22,6 +22,7 @@
       <COMP relation="OwnedElement">
         <COMPID name="com" mc="Standard.Package" uid="62aa8c31-c46e-4ea4-a2a5-0c13fc0c7f55"/>
         <COMPID name="Tree" mc="Standard.Class" uid="e8dd6387-233f-43e3-a801-841e07a73ef4"/>
+        <COMPID name="Tosca Model" mc="Standard.Package" uid="6abeb7d2-fb83-4d33-aacf-b10cf3d4b305"/>
       </COMP>
       <COMP relation="Product">
         <COMPID name="myrthustemplateproject Package diagram" mc="Standard.StaticDiagram" uid="83fe43b6-a0b0-4413-8e73-63600adfb236"/>

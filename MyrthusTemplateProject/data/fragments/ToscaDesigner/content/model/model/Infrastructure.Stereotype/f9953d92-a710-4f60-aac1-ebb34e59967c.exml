@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="ServiceTemplateDiagram" version="4">
+  <OBJECT>
+    <ID name="ServiceTemplateDiagram" mc="Infrastructure.Stereotype" uid="f9953d92-a710-4f60-aac1-ebb34e59967c"/>
+    <PID name="Automatic" mc="Infrastructure.Profile" uid="72c19ac1-0189-4db1-a982-dbaa92e1cfd5"/>
+    <ATTRIBUTES>
+      <ATT name="Image"></ATT>
+      <ATT name="Icon"><![CDATA[res/icon/gui/diagram/service_template_diag24.png]]></ATT>
+      <ATT name="IsHidden">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="LabelKey"><![CDATA[%stereotype.ServiceTemplateDiagram.label]]></ATT>
+      <ATT name="BaseClassName"><![CDATA[Standard.StaticDiagram]]></ATT>
+      <ATT name="Name"><![CDATA[ServiceTemplateDiagram]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES></DEPENDENCIES>
+  </OBJECT>
+</EXT>

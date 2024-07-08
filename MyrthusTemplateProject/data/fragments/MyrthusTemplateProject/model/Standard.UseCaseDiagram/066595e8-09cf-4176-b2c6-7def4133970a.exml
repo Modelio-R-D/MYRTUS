@@ -2,10 +2,10 @@
 <!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="myrthustemplateproject Usecase diagram" version="4">
   <OBJECT>
     <ID name="myrthustemplateproject Usecase diagram" mc="Standard.UseCaseDiagram" uid="066595e8-09cf-4176-b2c6-7def4133970a"/>
-    <PID name="myrthustemplateproject" mc="Standard.Package" uid="91f027c5-e1ab-42e1-9f50-9b91b77ad56d"/>
+    <PID name="MyrthusTemplateProject" mc="Standard.Package" uid="91f027c5-e1ab-42e1-9f50-9b91b77ad56d"/>
     <ATTRIBUTES>
-      <ATT name="UiDataVersion">1</ATT>
-      <ATT name="UiData"><![CDATA[eJztVt+PmkAQ/lcI6av487Q26gWBWHIcXECvuSezuqPHddk1u8ud/PddFO1Jq6WJ6b30ic0s8803M98MDG63CdFegYuY0aHeNBq6djsaBIsXWEotxsqkazLbwFBnfG0kDAOJmZEmxEgFLJEAHKM1R4mhDpJxAwgkQKUoX0+SmQBLGey9QdcS9ML4/Bi6oY8GD5xtgMtMoyhREQnKWCptJJG6e0QkhYIKTQnR66NB/eDwi2skMwL6SSKt3yVyoCfy94WxZByMvW8FfiqdJcKAD8GcrQxhVTGKryAKTw220l64iuPumB8stkBEXs7RjKLAmkdfg29h4DlRqUZjxgggqmuvuXGorxARUBXQNx/diTl2PXf6dE1czxw73jUBLTO0r4VnBb7vWFM38MNgNnXCEq5D0+RLJe3cQfbJYpQq5SnphErDwF18JGS7oQpTYlTfK/USSw4EScBKYiVm97npgB5JRDHi2DidN63R7d70b+BzrdFfrmqdZq9bW7SW3VoPw6rTbLf7vQa6XCWChLyj7I16aAGkxCGSPKZrfZRkXD6nQkKyydluONsN4Gy/DbSiZoP6zvditqqLLrVYsmEizut4JmAFKOs5JphDjuDFIq9x8Tjr4cX0u6j++nhtc/Sm6HgoA366dtqX1s5xW+K9vzBIjqC25Qngv9mVf+f10WqM8RlB2BPDM5+ccD42rbuJGmXfvo5GKozo+6791M87NXT+q+GD1DANHq4tgz+thfI/j1G0rETVpRLWeV+LKrXOfBp+AKbUWv4=]]></ATT>
+      <ATT name="UiDataVersion">2</ATT>
+      <ATT name="UiData"><![CDATA[eJztVl1v2jAU/StRtFfCZ2FMQBWSiEXNkiqBTn1CBl9oOsdGttOSfz8HAivZYNmE1pc9xbrOPfdc3+OTDG63CdFegIuY0aHeNBq6djsaBItnWEotxiqkazLbwFBnfG0kDAOJmZEmxEgFLJEAHKM1R4mhFpJxAwgkQKUob0+SmQBLBex9QNcS9Mz4/Fi6oY8G95xtgMtMoyhRFQnKWCptJJHae0AkhYIKTQnR66NB/ZDwU2okMwL6SSOtXzVyoCfy94WxZByMfW4FfqqdJcKAD8WcrQxhVbGKryCKTA220l64iuNumS8stkBEXu7RjKLAmkefg6+WGdqlIxozRgBRXXvJg0N9hYiAqnhh4DnRNQF988GdmGPXc6eP18K1At93rKkb+GEwmzphCdehafKp0qjvIPtgMUqVUNSkQyU54C4+ErLdUJWp2qlnjh3vL1qs75V6qQgHgiRgJbES/pc8dACPJKIYcWyc3jet0e3e9G/gY63RX65qnWavW1u0lt1aD8Oq02y3+70GutwkQULeUfZKPbQAUuIQSR7TtT5KMi6fUiEh2eRsN5ztLuBs7wZaMYRBfZd7sVt1Zi61WLJhIs4Hc6ZgBSjrKSaYQ47gxSI/4+JxNsOL6TdR/fXx2uboVdHxUAb81Hbal2zn6JZ4ny8MkiMotzwB/Dde+WdZ763GGJ8RhD0xPPPRCedj07qbKG/w7etopMIVfTu1H/p5o4bOfzW8kxqmwf21ZfA7Wyj/8xjFyEpUXSphnc+1OKXWmU/Dd1eVWv4=]]></ATT>
       <ATT name="PreviewData"><![CDATA[data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVCAIAAAAmdTLBAAAAGElEQVR4nGP4TxlgGNU/qn9U/6j+EaofAB8cJiE1IQRUAAAAAElFTkSuQmCC]]></ATT>
       <ATT name="JsStructure"></ATT>
       <ATT name="Name"><![CDATA[myrthustemplateproject Usecase diagram]]></ATT>

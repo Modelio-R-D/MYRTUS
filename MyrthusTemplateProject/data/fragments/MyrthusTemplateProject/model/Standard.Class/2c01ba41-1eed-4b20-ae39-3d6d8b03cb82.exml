@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="RelationshipType" version="4">
+  <OBJECT>
+    <ID name="RelationshipType" mc="Standard.Class" uid="2c01ba41-1eed-4b20-ae39-3d6d8b03cb82"/>
+    <PID name="Tosca Model" mc="Standard.Package" uid="6abeb7d2-fb83-4d33-aacf-b10cf3d4b305"/>
+    <ATTRIBUTES>
+      <ATT name="IsActive">false</ATT>
+      <ATT name="IsMain">false</ATT>
+      <ATT name="IsElementary">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[RelationshipType]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <LINK relation="Extension">
+        <FOREIGNID name="TRelationshipType" mc="Infrastructure.Stereotype" uid="1b11c098-c9e5-4e5d-beca-3351909bc6ce"/>
+      </LINK>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

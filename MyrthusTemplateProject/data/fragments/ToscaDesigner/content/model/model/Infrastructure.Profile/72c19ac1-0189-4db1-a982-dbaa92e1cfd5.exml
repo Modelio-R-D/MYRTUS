@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Automatic" version="4">
+  <OBJECT>
+    <ID name="Automatic" mc="Infrastructure.Profile" uid="72c19ac1-0189-4db1-a982-dbaa92e1cfd5"/>
+    <PID name="ToscaDesigner" mc="Infrastructure.ModuleComponent" uid="942db9f9-6869-472c-b269-9ca7ec36a014"/>
+    <ATTRIBUTES>
+      <ATT name="Name"><![CDATA[Automatic]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="DefinedStereotype">
+        <COMPID name="CloudServiceArchiveDiagram" mc="Infrastructure.Stereotype" uid="dddbe647-1f21-42d1-93cd-f61109a8afd3"/>
+        <COMPID name="ServiceTemplateDiagram" mc="Infrastructure.Stereotype" uid="f9953d92-a710-4f60-aac1-ebb34e59967c"/>
+        <COMPID name="TopologyTemplateDiagram" mc="Infrastructure.Stereotype" uid="0313d7f3-dcd0-4c93-981e-705f3d4bcc82"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>
